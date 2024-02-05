@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎧 AirPods Pro Website
 
 This is a clone of the official [Apple AirPods Pro](https://www.apple.com/in/airpods-pro/) website.
@@ -30,3 +31,6 @@ This is a clone of the official [Apple AirPods Pro](https://www.apple.com/in/air
 
 - LinkedIn - [@anushka-chauhan](https://www.linkedin.com/in/anushka-chauhan)
 - Twitter - [@anushka_creates](https://twitter.com/anushka_creates)
+=======
+# Airpod-Pro
+>>>>>>> 4042d2281211bfef916f295a589c5d6d51d88f8d
